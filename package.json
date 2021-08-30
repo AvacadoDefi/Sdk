@@ -1,5 +1,5 @@
 {
-  "name": "@avacado/sdk",
+  "name": "@avacadodefi/sdk",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 Avacado core SDK for building applications.",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/avacado/Sdk",
+  "repository": "https://github.com/avacadodefi/sdk",
   "keywords": [
     "avacado",
     "avalanche"
