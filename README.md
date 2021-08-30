@@ -1,1 +1,2 @@
-# sdk
+# Avacado Application SDK
+
